@@ -1,0 +1,16 @@
+################################
+##### CommandBlocker #####
+################################
+
+deny_message: '&6Command&4Blocker&8&l> &cSorry, but you cannot type that right now.'
+allow_permission: 'commandblocker.override'
+blocked_commands:
+- '/?'
+- '/pl'
+- '/plugins'
+- '/ver'
+- '/version'
+- '/bukkit:'
+- '/essentials:'
+whitelisted_commands:
+- '/plot'

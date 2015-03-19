@@ -1,0 +1,5 @@
+name: CommandBlocker
+description: Plugin to block commands on a bukkit server.
+version: 1.7.9
+authors: [NoDemotePlesk]
+main: me.nodemoteplesk.commandblocker.CommandBlocker
